@@ -1,4 +1,4 @@
-# Music Sampple Utility Scraper
+# Music Sample Utility Scraper
 
 ## Intro ##
 This is a web scraping utility created using Python and Beautiful Soup that queries the popular sample music database "WhoSampled". 
